@@ -469,6 +469,7 @@ jobs:
         - "franzininho_wifi_wroom"
         - "franzininho_wifi_wrover"
         - "lilygo_ttgo_t8_s2_st7789"
+        - "hiibot_iots2"
         - "microdev_micro_s2"
         - "muselab_nanoesp32_s2"
         - "targett_module_clip_wroom"
